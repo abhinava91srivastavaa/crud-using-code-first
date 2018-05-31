@@ -1,0 +1,14 @@
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Data\bin\Debug\TSS.Event.Data.dll
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Data\bin\Debug\TSS.Event.Data.pdb
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Data\obj\Debug\TSS.Event.Data.csprojAssemblyReference.cache
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Data\obj\Debug\TSS.Event.Data.csproj.CoreCompileInputs.cache
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Data\obj\Debug\TSS.Event.Data.dll
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Data\obj\Debug\TSS.Event.Data.pdb
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Data\bin\Debug\TSS.Event.Data.dll.config
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Data\bin\Debug\EntityFramework.dll
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Data\bin\Debug\TSS.Event.Domain.dll
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Data\bin\Debug\TSS.Event.Domain.pdb
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Data\bin\Debug\EntityFramework.xml
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Data\obj\Debug\TSS.Event.Data.csproj.CopyComplete

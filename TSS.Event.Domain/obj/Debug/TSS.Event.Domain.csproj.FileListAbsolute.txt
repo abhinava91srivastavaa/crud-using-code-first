@@ -1,0 +1,6 @@
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Domain\bin\Debug\TSS.Event.Domain.dll
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Domain\bin\Debug\TSS.Event.Domain.pdb
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Domain\obj\Debug\TSS.Event.Domain.csproj.CoreCompileInputs.cache
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Domain\obj\Debug\TSS.Event.Domain.dll
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Domain\obj\Debug\TSS.Event.Domain.pdb
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Domain\obj\Debug\TSS.Event.Domain.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Database\bin\Debug\TSS.Event.Database.dacpac
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Database\bin\Debug\TSS.Event.Database.dll
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Database\bin\Debug\TSS.Event.Database.pdb
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Database\obj\Debug\TSS.Event.Database.dll
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Database\obj\Debug\TSS.Event.Database.pdb
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Database\obj\Debug\TSS.Event.Database.sqlprojAssemblyReference.cache
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Database\obj\Debug\Model.xml
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Database\obj\Debug\refactor.xml
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Database\obj\Debug\postdeploy.sql
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Database\obj\Debug\predeploy.sql

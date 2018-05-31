@@ -1,0 +1,6 @@
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Common\bin\Debug\TSS.Event.Common.dll
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Common\bin\Debug\TSS.Event.Common.pdb
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Common\obj\Debug\TSS.Event.Common.csprojAssemblyReference.cache
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Common\obj\Debug\TSS.Event.Common.csproj.CoreCompileInputs.cache
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Common\obj\Debug\TSS.Event.Common.dll
+C:\Users\abhinava.srivastava\source\repos\TSS.Event\TSS.Event.Common\obj\Debug\TSS.Event.Common.pdb

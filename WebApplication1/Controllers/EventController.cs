@@ -14,11 +14,12 @@ namespace TSS.Event.API.Controllers
     [RoutePrefix("api/events")]
     public class EventController : ApiController
     {
-        public EventController()
+        private IEventService _eventService; 
+        public EventController(IEventService service)
         {
-
+            _eventService = service;
         }
-        private IEventService _eventService = new EventService();
+        
 
         [Route("")]
         [HttpPost]

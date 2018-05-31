@@ -1,0 +1,17 @@
+
+*.cache
+*.cache
+*.cache
+*.ide
+*.config
+*.lock
+*.ide-wal
+*.cache
+*.cache
+*.cache
+TSS.Event.Data/obj/Debug/TSS.Event.Data.csproj.CoreCompileInputs.cache
+WebApplication1/obj/Debug/TSS.Event.API.csprojAssemblyReference.cache
+*.cache
+*.cache
+*.cache
+*.cache
